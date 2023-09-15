@@ -46132,7 +46132,7 @@ s=b.b
 A.vE("ZoneView: "+s.a)
 r=s.b
 q=A.dF(r.b,p,p,p,p,p,p,p,p)
-return new A.lo(A.aer(A.a2E(p,A.xG(p,B.kU,p,p,new A.arx(b,a),p,p,p),q),new A.zj(new A.w3("images/zones/"+r.c),B.hd,p)),new A.ary(b,a),p)},
+return new A.lo(A.aer(A.a2E(p,A.xG(p,B.kU,p,p,new A.arx(b,a),p,p,p),q),new A.zj(new A.w3("assets/images/zones/"+r.c),B.hd,p)),new A.ary(b,a),p)},
 $S:78}
 A.ary.prototype={
 $0(){this.a.oA(0,this.b)
