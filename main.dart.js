@@ -45452,7 +45452,7 @@ break}A.vE("Loading "+a)
 g=A
 f=B.Jn
 s=3
-return A.V($.Gj().akM("json/"+a+".json"),$async$qR)
+return A.V($.Gj().akM("assets/json/"+a+".json"),$async$qR)
 case 3:o=g.az4(f.dK(c),0,null,0)
 if(o.Hv()!==35615)A.a0(A.axy("Invalid GZip Signature"))
 if(o.zS()!==8)A.a0(A.axy("Invalid GZip Compression Methos"))
